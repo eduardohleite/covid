@@ -1,6 +1,7 @@
 [deps]
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 Indicators = "70c4c096-89a6-5ec6-8236-da8aa3bd86fd"
 Pipe = "b98c9c47-44ae-5843-9183-064241ee97a0"
